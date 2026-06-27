@@ -57,7 +57,7 @@
             {
               "field":"__tips_below__",
               "operator":">=",
-              "value":"15"
+              "value":"35"
             }
           ]
         }
