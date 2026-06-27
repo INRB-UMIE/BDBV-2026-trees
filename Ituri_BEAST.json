@@ -61,20 +61,6 @@
             }
           ]
         }
-      },
-      {
-        "id":"filter-root-13",
-        "name":"root",
-        "root":{
-          "logic":"AND",
-          "items":[
-            {
-              "field":"__tips_below__",
-              "operator":">=",
-              "value":"13"
-            }
-          ]
-        }
       }
     ]
   }
