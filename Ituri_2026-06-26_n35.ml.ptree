@@ -137,7 +137,7 @@ BEGIN TREES;
   "collapsedCladeHeightN": "3",
   "collapsedCladeFontSize": "11",
   "rootStemPct": "1",
-  "tipLabelShow": "name",
+  "tipLabelShow": "accession",
   "tipLabelAlign": "dots",
   "tipLabelSpacing": "3",
   "tipLabelsExtra": [
